@@ -3,7 +3,7 @@
 #include <string>
 #include <fstream>
 #include <sstream>
-#include <openfhe.h>
+#include "PSA-cryptocontext.h"
 
 using namespace lbcrypto;
 // Polynomial approximation for square root without range adjustment
@@ -230,62 +230,60 @@ double calculatePolynomial(const PolynomialCoefficients& poly, int numFeatures, 
     std::string result;
     double final = 0;
 
+    //std::cout << "[ ";
     for (size_t i = 0; i < poly.coefficients.size(); i++) {
         double coef = poly.coefficients[i];
         coef = coef*data[i];
+        //std::cout << coef << " , ";
         final += coef;
     }
+    //std::cout << " ]" << std::endl;
 
     return final;
 }
 
 // Format polynomial coefficients as a string for display
-double calculatePolynomial(const PolynomialCoefficients& poly, int numFeatures, Ciphertext<DCRTPoly> data, CryptoContext<DCRTPoly> cc, KeyPair<DCRTPoly> keyPair) {
-    std::string result;
+double calculatePolynomial(const PolynomialCoefficients& poly, int numFeatures, PSACryptocontext cc) {
     double final = 0;
-    Ciphertext<DCRTPoly> res;
-    std::vector<double> coeffs;
+    std::vector<double> coeffs(cc.aggregator.plaintextParams.GetRingDimension() / 2, 0);
 
     for (size_t i = 0; i < 16; i++) {
-        coeffs.push_back(poly.coefficients[i]);
+        coeffs[i] = poly.coefficients[i];
     }
-    Plaintext pt = cc->MakeCKKSPackedPlaintext(coeffs);
-    auto ct = cc->Encrypt(keyPair.publicKey, pt);
-    res = cc->EvalMult(data, ct);
-    Plaintext plain;
-    cc->Decrypt(keyPair.secretKey, res, &plain);
-    auto finvec = plain->GetCKKSPackedValue();
-    std::cout << "Full value " << finvec << std::endl;
-    for (size_t i = 0; i < 16; i++) final += finvec[i].real();
+    //std::cout << coeffs << std::endl;
+    std::vector<double> decrypt_times;
+    std::vector<double> outputvec = cc.PolynomialDecryption(coeffs, 1, decrypt_times);
+    std::cout << "Full value " << outputvec << std::endl;
+    for (size_t i = 0; i < 16; i++) final += outputvec[i];
 
     return final;
 }
 
 // Format polynomial coefficients as a string for display
 std::string calculatePolynomials(const std::vector<std::vector<PolynomialCoefficients>>& poly, int numFeatures, std::vector<Ciphertext<DCRTPoly>> data, CryptoContext<DCRTPoly> cc, KeyPair<DCRTPoly> keyPair) {
-    std::string result;
-    double final;
-    Ciphertext<DCRTPoly> res;
+std::string result;
+double final;
+Ciphertext<DCRTPoly> res;
 
-    for (size_t j = 0; j <16; j++) {
-        std::vector<double> coeffs(256,0);
-        for (size_t i = 0; i < 200; i++) {
-            coeffs[i] = poly[i][j].coefficients[0];
-        }
-        std::cout << coeffs << std::endl;
-        Plaintext pt = cc->MakeCKKSPackedPlaintext(coeffs);
-        Ciphertext<DCRTPoly> mult = cc->Encrypt(keyPair.publicKey, pt);
-        if (j == 0) res = cc->EvalMult(data[j],mult);
-        else res += cc->EvalMult(data[j],mult);
-        std::cout << "Eval mult " << j << std::endl;
-    }
-    Plaintext plain;
-    cc->Decrypt(keyPair.secretKey, res, &plain);
-    auto finvec = plain->GetCKKSPackedValue();
-    std::cout << "Full value " << finvec << std::endl;
-    final = finvec[0].real();
+for (size_t j = 0; j <16; j++) {
+std::vector<double> coeffs(256,0);
+for (size_t i = 0; i < 200; i++) {
+coeffs[i] = poly[i][j].coefficients[0];
+}
+std::cout << coeffs << std::endl;
+Plaintext pt = cc->MakeCKKSPackedPlaintext(coeffs);
+Ciphertext<DCRTPoly> mult = cc->Encrypt(keyPair.publicKey, pt);
+if (j == 0) res = cc->EvalMult(data[j],mult);
+else res += cc->EvalMult(data[j],mult);
+std::cout << "Eval mult " << j << std::endl;
+}
+Plaintext plain;
+cc->Decrypt(keyPair.secretKey, res, &plain);
+auto finvec = plain->GetCKKSPackedValue();
+std::cout << "Full value " << finvec << std::endl;
+final = finvec[0].real();
 
-    return result+= std::to_string(final);
+return result+= std::to_string(final);
 }
 
 
@@ -300,6 +298,11 @@ int main(){
     int numSamples = 200;
     int numFeatures = 16;
     int numComponents = 6;
+
+    unsigned int plain_bits = 45; //log t
+    unsigned int num_users = 16; //n
+    unsigned int iters = 1; //i
+    Scheme scheme1 = NS;
 
     /**
     // Custom string to int conversion
@@ -319,46 +322,27 @@ int main(){
     std::vector<std::vector<PolynomialCoefficients>> polynomials =
             generatePCAPolynomials(numSamples, numFeatures, numComponents);
 
-    std::vector<std::vector<double>> inputData = parseCSVasDoubles("../data_pca_200x16.csv");
+    std::vector<std::vector<double>> inputData = parseCSVasDoubles("data_pca_200x16.csv");
 
-    std::vector<CryptoContext<DCRTPoly>> cc;
+    std::vector<double> poly_noise_times, poly_enc_times;
+    std::vector<PSACryptocontext> cc;
     std::vector<KeyPair<DCRTPoly>> keys;
     for (int i = 0; i < 200; i++) {
-        //Encode Data
-        uint32_t multDepth = 6;
-        uint32_t scaleModSize = 50;
-        uint32_t batchSize = 32;
-        CCParams<CryptoContextCKKSRNS> parameters;
-        parameters.SetMultiplicativeDepth(multDepth);
-        parameters.SetScalingModSize(scaleModSize);
-        parameters.SetBatchSize(batchSize);
-
-        cc.push_back(GenCryptoContext(parameters));
-
-        cc[i]->Enable(PKE);
-        cc[i]->Enable(KEYSWITCH);
-        cc[i]->Enable(LEVELEDSHE);
-        cc[i]->Enable(ADVANCEDSHE);
-        std::cout << "CKKS scheme " << i << " is using ring dimension " << cc[i]->GetRingDimension() << std::endl;
-
-        keys.push_back(cc[i]->KeyGen());
-        cc[i]->EvalMultKeyGen(keys[i].secretKey);
-        cc[i]->EvalRotateKeyGen(keys[i].secretKey, {1, -2});
+        cc.push_back(PSACryptocontext(plain_bits, num_users, iters, scheme1));
+        cc[i].PolynomialEnvSetup(poly_noise_times, poly_enc_times);
     }
 
-    std::vector<Ciphertext<DCRTPoly>> encryptedData;
     for (int i =  0; i < inputData.size(); i++){
-        Ciphertext<DCRTPoly> row;
         for (int j = 0; j < inputData[0].size(); j++){
-            std::vector<double> ct(16,0);
-            ct[j] = inputData[i][j];
-            Plaintext pt = cc[i]->MakeCKKSPackedPlaintext(ct);
-            auto add = cc[i]->Encrypt(keys[i].publicKey, pt);
-            if (j == 0) row = add;
-            else cc[i]->EvalAddInPlace(row,add);
+            std::vector<double> expvec(cc[i].aggregator.plaintextParams.GetRingDimension() / 2, 1);
+            std::vector<double> inputvec(cc[i].aggregator.plaintextParams.GetRingDimension() / 2,1);
+            inputvec[j] = inputData[i][j];
+            expvec[j] = 1;
+            //std::cout << inputvec << std::endl;
+            cc[i].PolynomialEncryption(
+                    inputvec, expvec, j, poly_noise_times, poly_enc_times);
         }
         std::cout << "Making a plaintext " << i << std::endl;
-        encryptedData.push_back(row);
     }
 
 
@@ -378,13 +362,13 @@ int main(){
         double averageDiff = 0;
         for (int j = 0; j < maxComponentsToShow; j++) {
             double plain = calculatePolynomial(polynomials[i][j], numFeatures, inputData[i]);
-            double fhe = calculatePolynomial(polynomials[i][j], numFeatures, encryptedData[i], cc[i], keys[i]);
-            averageDiff += abs(plain-fhe);
+            double fhe = calculatePolynomial(polynomials[i][j], numFeatures, cc[i]);
+            averageDiff += double(abs(plain-fhe));
             std::cout << "  Component " << (j+1) << ": "
                       //<< formatPolynomial(polynomials[i][j], numFeatures) << " = "
                       << std::to_string(plain) << " "
                       << std::to_string(fhe)
-            << std::endl;
+                      << std::endl;
         }
         averageDiff = averageDiff/double(maxComponentsToShow);
         std::cout << "  Average Diff  " << averageDiff << std::endl;

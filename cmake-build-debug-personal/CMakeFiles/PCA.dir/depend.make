@@ -242,5 +242,3 @@ CMakeFiles/PCA.dir/linearFHEPCA.cpp.o: /usr/local/include/openfhe/pke/schemerns/
 CMakeFiles/PCA.dir/linearFHEPCA.cpp.o: /usr/local/include/openfhe/pke/schemerns/rns-pre.h
 CMakeFiles/PCA.dir/linearFHEPCA.cpp.o: /usr/local/include/openfhe/pke/schemerns/rns-scheme.h
 
-CMakeFiles/PCA.dir/main.cpp.o: ../main.cpp
-

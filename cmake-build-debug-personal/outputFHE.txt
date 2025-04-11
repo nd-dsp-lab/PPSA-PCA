@@ -1,0 +1,2006 @@
+CKKS scheme 0 is using ring dimension 32768
+CKKS scheme 1 is using ring dimension 32768
+CKKS scheme 2 is using ring dimension 32768
+CKKS scheme 3 is using ring dimension 32768
+CKKS scheme 4 is using ring dimension 32768
+CKKS scheme 5 is using ring dimension 32768
+CKKS scheme 6 is using ring dimension 32768
+CKKS scheme 7 is using ring dimension 32768
+CKKS scheme 8 is using ring dimension 32768
+CKKS scheme 9 is using ring dimension 32768
+CKKS scheme 10 is using ring dimension 32768
+CKKS scheme 11 is using ring dimension 32768
+CKKS scheme 12 is using ring dimension 32768
+CKKS scheme 13 is using ring dimension 32768
+CKKS scheme 14 is using ring dimension 32768
+CKKS scheme 15 is using ring dimension 32768
+CKKS scheme 16 is using ring dimension 32768
+CKKS scheme 17 is using ring dimension 32768
+CKKS scheme 18 is using ring dimension 32768
+CKKS scheme 19 is using ring dimension 32768
+CKKS scheme 20 is using ring dimension 32768
+CKKS scheme 21 is using ring dimension 32768
+CKKS scheme 22 is using ring dimension 32768
+CKKS scheme 23 is using ring dimension 32768
+CKKS scheme 24 is using ring dimension 32768
+CKKS scheme 25 is using ring dimension 32768
+CKKS scheme 26 is using ring dimension 32768
+CKKS scheme 27 is using ring dimension 32768
+CKKS scheme 28 is using ring dimension 32768
+CKKS scheme 29 is using ring dimension 32768
+CKKS scheme 30 is using ring dimension 32768
+CKKS scheme 31 is using ring dimension 32768
+CKKS scheme 32 is using ring dimension 32768
+CKKS scheme 33 is using ring dimension 32768
+CKKS scheme 34 is using ring dimension 32768
+CKKS scheme 35 is using ring dimension 32768
+CKKS scheme 36 is using ring dimension 32768
+CKKS scheme 37 is using ring dimension 32768
+CKKS scheme 38 is using ring dimension 32768
+CKKS scheme 39 is using ring dimension 32768
+CKKS scheme 40 is using ring dimension 32768
+CKKS scheme 41 is using ring dimension 32768
+CKKS scheme 42 is using ring dimension 32768
+CKKS scheme 43 is using ring dimension 32768
+CKKS scheme 44 is using ring dimension 32768
+CKKS scheme 45 is using ring dimension 32768
+CKKS scheme 46 is using ring dimension 32768
+CKKS scheme 47 is using ring dimension 32768
+CKKS scheme 48 is using ring dimension 32768
+CKKS scheme 49 is using ring dimension 32768
+CKKS scheme 50 is using ring dimension 32768
+CKKS scheme 51 is using ring dimension 32768
+CKKS scheme 52 is using ring dimension 32768
+CKKS scheme 53 is using ring dimension 32768
+CKKS scheme 54 is using ring dimension 32768
+CKKS scheme 55 is using ring dimension 32768
+CKKS scheme 56 is using ring dimension 32768
+CKKS scheme 57 is using ring dimension 32768
+CKKS scheme 58 is using ring dimension 32768
+CKKS scheme 59 is using ring dimension 32768
+CKKS scheme 60 is using ring dimension 32768
+CKKS scheme 61 is using ring dimension 32768
+CKKS scheme 62 is using ring dimension 32768
+CKKS scheme 63 is using ring dimension 32768
+CKKS scheme 64 is using ring dimension 32768
+CKKS scheme 65 is using ring dimension 32768
+CKKS scheme 66 is using ring dimension 32768
+CKKS scheme 67 is using ring dimension 32768
+CKKS scheme 68 is using ring dimension 32768
+CKKS scheme 69 is using ring dimension 32768
+CKKS scheme 70 is using ring dimension 32768
+CKKS scheme 71 is using ring dimension 32768
+CKKS scheme 72 is using ring dimension 32768
+CKKS scheme 73 is using ring dimension 32768
+CKKS scheme 74 is using ring dimension 32768
+CKKS scheme 75 is using ring dimension 32768
+CKKS scheme 76 is using ring dimension 32768
+CKKS scheme 77 is using ring dimension 32768
+CKKS scheme 78 is using ring dimension 32768
+CKKS scheme 79 is using ring dimension 32768
+CKKS scheme 80 is using ring dimension 32768
+CKKS scheme 81 is using ring dimension 32768
+CKKS scheme 82 is using ring dimension 32768
+CKKS scheme 83 is using ring dimension 32768
+CKKS scheme 84 is using ring dimension 32768
+CKKS scheme 85 is using ring dimension 32768
+CKKS scheme 86 is using ring dimension 32768
+CKKS scheme 87 is using ring dimension 32768
+CKKS scheme 88 is using ring dimension 32768
+CKKS scheme 89 is using ring dimension 32768
+CKKS scheme 90 is using ring dimension 32768
+CKKS scheme 91 is using ring dimension 32768
+CKKS scheme 92 is using ring dimension 32768
+CKKS scheme 93 is using ring dimension 32768
+CKKS scheme 94 is using ring dimension 32768
+CKKS scheme 95 is using ring dimension 32768
+CKKS scheme 96 is using ring dimension 32768
+CKKS scheme 97 is using ring dimension 32768
+CKKS scheme 98 is using ring dimension 32768
+CKKS scheme 99 is using ring dimension 32768
+CKKS scheme 100 is using ring dimension 32768
+CKKS scheme 101 is using ring dimension 32768
+CKKS scheme 102 is using ring dimension 32768
+CKKS scheme 103 is using ring dimension 32768
+CKKS scheme 104 is using ring dimension 32768
+CKKS scheme 105 is using ring dimension 32768
+CKKS scheme 106 is using ring dimension 32768
+CKKS scheme 107 is using ring dimension 32768
+CKKS scheme 108 is using ring dimension 32768
+CKKS scheme 109 is using ring dimension 32768
+CKKS scheme 110 is using ring dimension 32768
+CKKS scheme 111 is using ring dimension 32768
+CKKS scheme 112 is using ring dimension 32768
+CKKS scheme 113 is using ring dimension 32768
+CKKS scheme 114 is using ring dimension 32768
+CKKS scheme 115 is using ring dimension 32768
+CKKS scheme 116 is using ring dimension 32768
+CKKS scheme 117 is using ring dimension 32768
+CKKS scheme 118 is using ring dimension 32768
+CKKS scheme 119 is using ring dimension 32768
+CKKS scheme 120 is using ring dimension 32768
+CKKS scheme 121 is using ring dimension 32768
+CKKS scheme 122 is using ring dimension 32768
+CKKS scheme 123 is using ring dimension 32768
+CKKS scheme 124 is using ring dimension 32768
+CKKS scheme 125 is using ring dimension 32768
+CKKS scheme 126 is using ring dimension 32768
+CKKS scheme 127 is using ring dimension 32768
+CKKS scheme 128 is using ring dimension 32768
+CKKS scheme 129 is using ring dimension 32768
+CKKS scheme 130 is using ring dimension 32768
+CKKS scheme 131 is using ring dimension 32768
+CKKS scheme 132 is using ring dimension 32768
+CKKS scheme 133 is using ring dimension 32768
+CKKS scheme 134 is using ring dimension 32768
+CKKS scheme 135 is using ring dimension 32768
+CKKS scheme 136 is using ring dimension 32768
+CKKS scheme 137 is using ring dimension 32768
+CKKS scheme 138 is using ring dimension 32768
+CKKS scheme 139 is using ring dimension 32768
+CKKS scheme 140 is using ring dimension 32768
+CKKS scheme 141 is using ring dimension 32768
+CKKS scheme 142 is using ring dimension 32768
+CKKS scheme 143 is using ring dimension 32768
+CKKS scheme 144 is using ring dimension 32768
+CKKS scheme 145 is using ring dimension 32768
+CKKS scheme 146 is using ring dimension 32768
+CKKS scheme 147 is using ring dimension 32768
+CKKS scheme 148 is using ring dimension 32768
+CKKS scheme 149 is using ring dimension 32768
+CKKS scheme 150 is using ring dimension 32768
+CKKS scheme 151 is using ring dimension 32768
+CKKS scheme 152 is using ring dimension 32768
+CKKS scheme 153 is using ring dimension 32768
+CKKS scheme 154 is using ring dimension 32768
+CKKS scheme 155 is using ring dimension 32768
+CKKS scheme 156 is using ring dimension 32768
+CKKS scheme 157 is using ring dimension 32768
+CKKS scheme 158 is using ring dimension 32768
+CKKS scheme 159 is using ring dimension 32768
+CKKS scheme 160 is using ring dimension 32768
+CKKS scheme 161 is using ring dimension 32768
+CKKS scheme 162 is using ring dimension 32768
+CKKS scheme 163 is using ring dimension 32768
+CKKS scheme 164 is using ring dimension 32768
+CKKS scheme 165 is using ring dimension 32768
+CKKS scheme 166 is using ring dimension 32768
+CKKS scheme 167 is using ring dimension 32768
+CKKS scheme 168 is using ring dimension 32768
+CKKS scheme 169 is using ring dimension 32768
+CKKS scheme 170 is using ring dimension 32768
+CKKS scheme 171 is using ring dimension 32768
+CKKS scheme 172 is using ring dimension 32768
+CKKS scheme 173 is using ring dimension 32768
+CKKS scheme 174 is using ring dimension 32768
+CKKS scheme 175 is using ring dimension 32768
+CKKS scheme 176 is using ring dimension 32768
+CKKS scheme 177 is using ring dimension 32768
+CKKS scheme 178 is using ring dimension 32768
+CKKS scheme 179 is using ring dimension 32768
+CKKS scheme 180 is using ring dimension 32768
+CKKS scheme 181 is using ring dimension 32768
+CKKS scheme 182 is using ring dimension 32768
+CKKS scheme 183 is using ring dimension 32768
+CKKS scheme 184 is using ring dimension 32768
+CKKS scheme 185 is using ring dimension 32768
+CKKS scheme 186 is using ring dimension 32768
+CKKS scheme 187 is using ring dimension 32768
+CKKS scheme 188 is using ring dimension 32768
+CKKS scheme 189 is using ring dimension 32768
+CKKS scheme 190 is using ring dimension 32768
+CKKS scheme 191 is using ring dimension 32768
+CKKS scheme 192 is using ring dimension 32768
+CKKS scheme 193 is using ring dimension 32768
+CKKS scheme 194 is using ring dimension 32768
+CKKS scheme 195 is using ring dimension 32768
+CKKS scheme 196 is using ring dimension 32768
+CKKS scheme 197 is using ring dimension 32768
+CKKS scheme 198 is using ring dimension 32768
+CKKS scheme 199 is using ring dimension 32768
+Making a plaintext 0
+Making a plaintext 1
+Making a plaintext 2
+Making a plaintext 3
+Making a plaintext 4
+Making a plaintext 5
+Making a plaintext 6
+Making a plaintext 7
+Making a plaintext 8
+Making a plaintext 9
+Making a plaintext 10
+Making a plaintext 11
+Making a plaintext 12
+Making a plaintext 13
+Making a plaintext 14
+Making a plaintext 15
+Making a plaintext 16
+Making a plaintext 17
+Making a plaintext 18
+Making a plaintext 19
+Making a plaintext 20
+Making a plaintext 21
+Making a plaintext 22
+Making a plaintext 23
+Making a plaintext 24
+Making a plaintext 25
+Making a plaintext 26
+Making a plaintext 27
+Making a plaintext 28
+Making a plaintext 29
+Making a plaintext 30
+Making a plaintext 31
+Making a plaintext 32
+Making a plaintext 33
+Making a plaintext 34
+Making a plaintext 35
+Making a plaintext 36
+Making a plaintext 37
+Making a plaintext 38
+Making a plaintext 39
+Making a plaintext 40
+Making a plaintext 41
+Making a plaintext 42
+Making a plaintext 43
+Making a plaintext 44
+Making a plaintext 45
+Making a plaintext 46
+Making a plaintext 47
+Making a plaintext 48
+Making a plaintext 49
+Making a plaintext 50
+Making a plaintext 51
+Making a plaintext 52
+Making a plaintext 53
+Making a plaintext 54
+Making a plaintext 55
+Making a plaintext 56
+Making a plaintext 57
+Making a plaintext 58
+Making a plaintext 59
+Making a plaintext 60
+Making a plaintext 61
+Making a plaintext 62
+Making a plaintext 63
+Making a plaintext 64
+Making a plaintext 65
+Making a plaintext 66
+Making a plaintext 67
+Making a plaintext 68
+Making a plaintext 69
+Making a plaintext 70
+Making a plaintext 71
+Making a plaintext 72
+Making a plaintext 73
+Making a plaintext 74
+Making a plaintext 75
+Making a plaintext 76
+Making a plaintext 77
+Making a plaintext 78
+Making a plaintext 79
+Making a plaintext 80
+Making a plaintext 81
+Making a plaintext 82
+Making a plaintext 83
+Making a plaintext 84
+Making a plaintext 85
+Making a plaintext 86
+Making a plaintext 87
+Making a plaintext 88
+Making a plaintext 89
+Making a plaintext 90
+Making a plaintext 91
+Making a plaintext 92
+Making a plaintext 93
+Making a plaintext 94
+Making a plaintext 95
+Making a plaintext 96
+Making a plaintext 97
+Making a plaintext 98
+Making a plaintext 99
+Making a plaintext 100
+Making a plaintext 101
+Making a plaintext 102
+Making a plaintext 103
+Making a plaintext 104
+Making a plaintext 105
+Making a plaintext 106
+Making a plaintext 107
+Making a plaintext 108
+Making a plaintext 109
+Making a plaintext 110
+Making a plaintext 111
+Making a plaintext 112
+Making a plaintext 113
+Making a plaintext 114
+Making a plaintext 115
+Making a plaintext 116
+Making a plaintext 117
+Making a plaintext 118
+Making a plaintext 119
+Making a plaintext 120
+Making a plaintext 121
+Making a plaintext 122
+Making a plaintext 123
+Making a plaintext 124
+Making a plaintext 125
+Making a plaintext 126
+Making a plaintext 127
+Making a plaintext 128
+Making a plaintext 129
+Making a plaintext 130
+Making a plaintext 131
+Making a plaintext 132
+Making a plaintext 133
+Making a plaintext 134
+Making a plaintext 135
+Making a plaintext 136
+Making a plaintext 137
+Making a plaintext 138
+Making a plaintext 139
+Making a plaintext 140
+Making a plaintext 141
+Making a plaintext 142
+Making a plaintext 143
+Making a plaintext 144
+Making a plaintext 145
+Making a plaintext 146
+Making a plaintext 147
+Making a plaintext 148
+Making a plaintext 149
+Making a plaintext 150
+Making a plaintext 151
+Making a plaintext 152
+Making a plaintext 153
+Making a plaintext 154
+Making a plaintext 155
+Making a plaintext 156
+Making a plaintext 157
+Making a plaintext 158
+Making a plaintext 159
+Making a plaintext 160
+Making a plaintext 161
+Making a plaintext 162
+Making a plaintext 163
+Making a plaintext 164
+Making a plaintext 165
+Making a plaintext 166
+Making a plaintext 167
+Making a plaintext 168
+Making a plaintext 169
+Making a plaintext 170
+Making a plaintext 171
+Making a plaintext 172
+Making a plaintext 173
+Making a plaintext 174
+Making a plaintext 175
+Making a plaintext 176
+Making a plaintext 177
+Making a plaintext 178
+Making a plaintext 179
+Making a plaintext 180
+Making a plaintext 181
+Making a plaintext 182
+Making a plaintext 183
+Making a plaintext 184
+Making a plaintext 185
+Making a plaintext 186
+Making a plaintext 187
+Making a plaintext 188
+Making a plaintext 189
+Making a plaintext 190
+Making a plaintext 191
+Making a plaintext 192
+Making a plaintext 193
+Making a plaintext 194
+Making a plaintext 195
+Making a plaintext 196
+Making a plaintext 197
+Making a plaintext 198
+Making a plaintext 199
+Generated PCA polynomial coefficients for 200 samples, 16 features, reduced to 6 components:
+Sample 1:
+  Component 1: -3.045112 -3.045112
+  Component 2: 1.653452 1.653452
+  Component 3: -2.279744 -2.279744
+  Component 4: 7.667958 7.667958
+  Component 5: -8.627874 -8.627874
+  Component 6: 4.065923 4.065923
+  Average Diff  0
+Sample 2:
+  Component 1: 0.909434 0.909434
+  Component 2: 6.022964 6.022964
+  Component 3: 1.460638 1.460638
+  Component 4: -7.367439 -7.367439
+  Component 5: -4.102465 -4.102465
+  Component 6: 3.632100 3.632100
+  Average Diff  0
+Sample 3:
+  Component 1: 7.663358 7.663358
+  Component 2: -4.889050 -4.889050
+  Component 3: 4.069554 4.069554
+  Component 4: -2.100030 -2.100030
+  Component 5: -5.009849 -5.009849
+  Component 6: 3.175767 3.175767
+  Average Diff  0
+Sample 4:
+  Component 1: 4.765772 4.765772
+  Component 2: -0.579153 -0.579153
+  Component 3: 4.372953 4.372953
+  Component 4: -4.051830 -4.051830
+  Component 5: -2.141815 -2.141815
+  Component 6: 2.055249 2.055249
+  Average Diff  0
+Sample 5:
+  Component 1: 6.139321 6.139321
+  Component 2: -3.391538 -3.391538
+  Component 3: 2.798660 2.798660
+  Component 4: 0.223713 0.223713
+  Component 5: -7.158133 -7.158133
+  Component 6: 1.904990 1.904990
+  Average Diff  0
+Sample 6:
+  Component 1: 3.256890 3.256890
+  Component 2: 0.388976 0.388976
+  Component 3: 3.381198 3.381198
+  Component 4: -5.795546 -5.795546
+  Component 5: -1.428653 -1.428653
+  Component 6: 4.890839 4.890839
+  Average Diff  0
+Sample 7:
+  Component 1: 3.767946 3.767946
+  Component 2: 3.135840 3.135840
+  Component 3: -2.875666 -2.875666
+  Component 4: 1.387966 1.387966
+  Component 5: -3.161462 -3.161462
+  Component 6: 0.420826 0.420826
+  Average Diff  0
+Sample 8:
+  Component 1: 4.014900 4.014900
+  Component 2: -3.338703 -3.338703
+  Component 3: 7.981707 7.981707
+  Component 4: -9.411073 -9.411073
+  Component 5: 3.990513 3.990513
+  Component 6: 2.476889 2.476889
+  Average Diff  0
+Sample 9:
+  Component 1: 6.815264 6.815264
+  Component 2: -2.768102 -2.768102
+  Component 3: 6.940802 6.940802
+  Component 4: -6.472390 -6.472390
+  Component 5: -5.647343 -5.647343
+  Component 6: 5.023456 5.023456
+  Average Diff  0
+Sample 10:
+  Component 1: 9.468046 9.468046
+  Component 2: -2.745907 -2.745907
+  Component 3: -0.658381 -0.658381
+  Component 4: -0.748676 -0.748676
+  Component 5: 2.759238 2.759238
+  Component 6: 1.147881 1.147881
+  Average Diff  0
+Sample 11:
+  Component 1: 4.308970 4.308970
+  Component 2: 0.622065 0.622065
+  Component 3: 3.524188 3.524188
+  Component 4: -7.927096 -7.927096
+  Component 5: -1.029466 -1.029466
+  Component 6: 3.628068 3.628068
+  Average Diff  0
+Sample 12:
+  Component 1: 4.792991 4.792991
+  Component 2: 1.719228 1.719228
+  Component 3: 8.794186 8.794186
+  Component 4: -16.036225 -16.036225
+  Component 5: 4.883142 4.883142
+  Component 6: -0.639689 -0.639689
+  Average Diff  0
+Sample 13:
+  Component 1: 3.424560 3.424560
+  Component 2: 0.877731 0.877731
+  Component 3: 1.069888 1.069888
+  Component 4: -3.910324 -3.910324
+  Component 5: 3.463768 3.463768
+  Component 6: 2.470353 2.470353
+  Average Diff  0
+Sample 14:
+  Component 1: 5.961643 5.961643
+  Component 2: 0.060294 0.060294
+  Component 3: 5.591859 5.591859
+  Component 4: -4.811849 -4.811849
+  Component 5: -3.141847 -3.141847
+  Component 6: 2.352701 2.352701
+  Average Diff  0
+Sample 15:
+  Component 1: 3.145963 3.145963
+  Component 2: 5.711499 5.711499
+  Component 3: 2.564233 2.564233
+  Component 4: -9.208636 -9.208636
+  Component 5: -0.957008 -0.957008
+  Component 6: 2.214102 2.214102
+  Average Diff  0
+Sample 16:
+  Component 1: 5.755445 5.755445
+  Component 2: 4.209149 4.209149
+  Component 3: 2.085113 2.085113
+  Component 4: -9.219394 -9.219394
+  Component 5: 0.484161 0.484161
+  Component 6: -0.608473 -0.608473
+  Average Diff  0
+Sample 17:
+  Component 1: 2.767198 2.767198
+  Component 2: 3.953191 3.953191
+  Component 3: 6.319863 6.319863
+  Component 4: -12.651293 -12.651293
+  Component 5: -1.196862 -1.196862
+  Component 6: 1.914397 1.914397
+  Average Diff  0
+Sample 18:
+  Component 1: 5.725483 5.725483
+  Component 2: -5.059592 -5.059592
+  Component 3: -1.086036 -1.086036
+  Component 4: 2.401384 2.401384
+  Component 5: -6.201910 -6.201910
+  Component 6: 4.687866 4.687866
+  Average Diff  0
+Sample 19:
+  Component 1: 3.172371 3.172371
+  Component 2: -1.073444 -1.073444
+  Component 3: 4.775418 4.775418
+  Component 4: -3.909849 -3.909849
+  Component 5: -2.844996 -2.844996
+  Component 6: 1.909285 1.909285
+  Average Diff  0
+Sample 20:
+  Component 1: 7.387411 7.387411
+  Component 2: -3.891137 -3.891137
+  Component 3: 6.165686 6.165686
+  Component 4: -3.387346 -3.387346
+  Component 5: -9.958821 -9.958821
+  Component 6: 3.894288 3.894288
+  Average Diff  0
+Sample 21:
+  Component 1: 4.462482 4.462482
+  Component 2: -2.177909 -2.177909
+  Component 3: 2.379732 2.379732
+  Component 4: -4.491997 -4.491997
+  Component 5: -3.959215 -3.959215
+  Component 6: 6.650002 6.650002
+  Average Diff  0
+Sample 22:
+  Component 1: 6.418406 6.418406
+  Component 2: -3.891249 -3.891249
+  Component 3: 7.389843 7.389843
+  Component 4: -3.447034 -3.447034
+  Component 5: -5.847127 -5.847127
+  Component 6: 8.923181 8.923181
+  Average Diff  0
+Sample 23:
+  Component 1: 6.672443 6.672443
+  Component 2: -4.235453 -4.235453
+  Component 3: 3.770880 3.770880
+  Component 4: -0.881922 -0.881922
+  Component 5: -0.821336 -0.821336
+  Component 6: 5.473179 5.473179
+  Average Diff  0
+Sample 24:
+  Component 1: 6.097642 6.097642
+  Component 2: -3.222520 -3.222520
+  Component 3: 4.771159 4.771159
+  Component 4: -4.479218 -4.479218
+  Component 5: -4.665447 -4.665447
+  Component 6: 2.270315 2.270315
+  Average Diff  0
+Sample 25:
+  Component 1: 3.359767 3.359767
+  Component 2: -1.418953 -1.418953
+  Component 3: 3.995355 3.995355
+  Component 4: -3.893289 -3.893289
+  Component 5: 2.213004 2.213004
+  Component 6: 2.044385 2.044385
+  Average Diff  0
+Sample 26:
+  Component 1: 1.613843 1.613843
+  Component 2: 1.168735 1.168735
+  Component 3: 2.222191 2.222191
+  Component 4: -0.897586 -0.897586
+  Component 5: -6.421868 -6.421868
+  Component 6: 4.003757 4.003757
+  Average Diff  0
+Sample 27:
+  Component 1: 4.235371 4.235371
+  Component 2: 8.075230 8.075230
+  Component 3: -5.187868 -5.187868
+  Component 4: -6.455386 -6.455386
+  Component 5: 2.878264 2.878264
+  Component 6: -2.290816 -2.290816
+  Average Diff  0
+Sample 28:
+  Component 1: 3.659986 3.659986
+  Component 2: -5.757061 -5.757061
+  Component 3: 3.069904 3.069904
+  Component 4: 6.709060 6.709060
+  Component 5: -7.406857 -7.406857
+  Component 6: 5.360597 5.360597
+  Average Diff  0
+Sample 29:
+  Component 1: 6.645507 6.645507
+  Component 2: -4.116876 -4.116876
+  Component 3: 5.422450 5.422450
+  Component 4: 1.183257 1.183257
+  Component 5: -8.195508 -8.195508
+  Component 6: 3.891086 3.891086
+  Average Diff  0
+Sample 30:
+  Component 1: 8.130523 8.130523
+  Component 2: -2.196250 -2.196250
+  Component 3: -2.118424 -2.118424
+  Component 4: 2.125402 2.125402
+  Component 5: -2.682069 -2.682069
+  Component 6: -2.839194 -2.839194
+  Average Diff  0
+Sample 31:
+  Component 1: 7.144265 7.144265
+  Component 2: 0.807411 0.807411
+  Component 3: 0.675935 0.675935
+  Component 4: -8.861972 -8.861972
+  Component 5: 5.777981 5.777981
+  Component 6: -1.351503 -1.351503
+  Average Diff  0
+Sample 32:
+  Component 1: 6.043689 6.043689
+  Component 2: 3.802016 3.802016
+  Component 3: -1.496114 -1.496114
+  Component 4: -5.021575 -5.021575
+  Component 5: -1.256423 -1.256423
+  Component 6: -1.568723 -1.568723
+  Average Diff  0
+Sample 33:
+  Component 1: 2.694042 2.694042
+  Component 2: -1.607291 -1.607291
+  Component 3: 5.226533 5.226533
+  Component 4: -2.868005 -2.868005
+  Component 5: 4.875806 4.875806
+  Component 6: 2.892192 2.892192
+  Average Diff  0
+Sample 34:
+  Component 1: 6.338954 6.338954
+  Component 2: 1.885015 1.885015
+  Component 3: 1.663290 1.663290
+  Component 4: -0.975288 -0.975288
+  Component 5: -0.828471 -0.828471
+  Component 6: -4.690832 -4.690832
+  Average Diff  0
+Sample 35:
+  Component 1: 6.953545 6.953545
+  Component 2: -2.223282 -2.223282
+  Component 3: 9.160280 9.160280
+  Component 4: -12.165364 -12.165364
+  Component 5: -3.631325 -3.631325
+  Component 6: 5.702465 5.702465
+  Average Diff  0
+Sample 36:
+  Component 1: 0.922368 0.922368
+  Component 2: -5.413201 -5.413201
+  Component 3: 13.421041 13.421041
+  Component 4: -2.942634 -2.942634
+  Component 5: -9.828665 -9.828665
+  Component 6: 10.519707 10.519707
+  Average Diff  0
+Sample 37:
+  Component 1: 0.151167 0.151167
+  Component 2: 1.893074 1.893074
+  Component 3: 3.183146 3.183146
+  Component 4: 0.445107 0.445107
+  Component 5: -11.520274 -11.520274
+  Component 6: 4.719024 4.719024
+  Average Diff  0
+Sample 38:
+  Component 1: 6.960119 6.960119
+  Component 2: -4.616753 -4.616753
+  Component 3: 9.089968 9.089968
+  Component 4: -5.489317 -5.489317
+  Component 5: -2.691832 -2.691832
+  Component 6: 5.147643 5.147643
+  Average Diff  0
+Sample 39:
+  Component 1: 4.623208 4.623208
+  Component 2: 1.724135 1.724135
+  Component 3: 2.040189 2.040189
+  Component 4: -6.692978 -6.692978
+  Component 5: -2.597512 -2.597512
+  Component 6: 2.483725 2.483725
+  Average Diff  0
+Sample 40:
+  Component 1: 11.797045 11.797045
+  Component 2: -0.920337 -0.920337
+  Component 3: 3.975832 3.975832
+  Component 4: -7.825351 -7.825351
+  Component 5: -1.783568 -1.783568
+  Component 6: -0.874176 -0.874176
+  Average Diff  0
+Sample 41:
+  Component 1: 4.225749 4.225749
+  Component 2: 1.806653 1.806653
+  Component 3: -1.697865 -1.697865
+  Component 4: -0.184918 -0.184918
+  Component 5: -2.663611 -2.663611
+  Component 6: 1.565174 1.565174
+  Average Diff  0
+Sample 42:
+  Component 1: 2.378492 2.378492
+  Component 2: 1.829707 1.829707
+  Component 3: 7.696799 7.696799
+  Component 4: -11.116075 -11.116075
+  Component 5: 5.117527 5.117527
+  Component 6: 3.751262 3.751262
+  Average Diff  0
+Sample 43:
+  Component 1: 4.781381 4.781381
+  Component 2: -2.779666 -2.779666
+  Component 3: 8.873458 8.873458
+  Component 4: -3.414981 -3.414981
+  Component 5: -8.387675 -8.387675
+  Component 6: 6.296810 6.296810
+  Average Diff  0
+Sample 44:
+  Component 1: 7.172423 7.172423
+  Component 2: -4.015723 -4.015723
+  Component 3: 3.345801 3.345801
+  Component 4: -1.222128 -1.222128
+  Component 5: 2.081337 2.081337
+  Component 6: 1.865987 1.865987
+  Average Diff  0
+Sample 45:
+  Component 1: 9.316339 9.316339
+  Component 2: -0.396885 -0.396885
+  Component 3: 5.059873 5.059873
+  Component 4: -8.008530 -8.008530
+  Component 5: -4.850887 -4.850887
+  Component 6: 1.933895 1.933895
+  Average Diff  0
+Sample 46:
+  Component 1: 7.515464 7.515464
+  Component 2: -0.261864 -0.261864
+  Component 3: -1.227108 -1.227108
+  Component 4: 0.940718 0.940718
+  Component 5: -3.295703 -3.295703
+  Component 6: 3.256662 3.256662
+  Average Diff  0
+Sample 47:
+  Component 1: 3.808716 3.808716
+  Component 2: -1.390058 -1.390058
+  Component 3: 8.949992 8.949992
+  Component 4: -8.589202 -8.589202
+  Component 5: 3.300432 3.300432
+  Component 6: 3.666702 3.666702
+  Average Diff  0
+Sample 48:
+  Component 1: 4.559919 4.559919
+  Component 2: -0.257387 -0.257387
+  Component 3: 2.492669 2.492669
+  Component 4: -6.944837 -6.944837
+  Component 5: 0.540894 0.540894
+  Component 6: 3.676324 3.676324
+  Average Diff  0
+Sample 49:
+  Component 1: 3.155988 3.155988
+  Component 2: -5.631133 -5.631133
+  Component 3: 6.496927 6.496927
+  Component 4: 1.870014 1.870014
+  Component 5: -7.861694 -7.861694
+  Component 6: 10.411937 10.411937
+  Average Diff  0
+Sample 50:
+  Component 1: 0.881466 0.881466
+  Component 2: 0.274334 0.274334
+  Component 3: 5.409058 5.409058
+  Component 4: -4.948303 -4.948303
+  Component 5: -1.815913 -1.815913
+  Component 6: 0.902994 0.902994
+  Average Diff  0
+Sample 51:
+  Component 1: 0.909721 0.909721
+  Component 2: 1.499742 1.499742
+  Component 3: 5.209236 5.209236
+  Component 4: -5.524696 -5.524696
+  Component 5: 1.185512 1.185512
+  Component 6: 2.313149 2.313149
+  Average Diff  0
+Sample 52:
+  Component 1: 2.055255 2.055255
+  Component 2: -3.301091 -3.301091
+  Component 3: 4.400290 4.400290
+  Component 4: 0.257699 0.257699
+  Component 5: -1.861578 -1.861578
+  Component 6: 3.268873 3.268873
+  Average Diff  0
+Sample 53:
+  Component 1: 8.759574 8.759574
+  Component 2: -0.552965 -0.552965
+  Component 3: 7.876591 7.876591
+  Component 4: -10.101533 -10.101533
+  Component 5: -1.148434 -1.148434
+  Component 6: 0.558415 0.558415
+  Average Diff  0
+Sample 54:
+  Component 1: 4.443837 4.443837
+  Component 2: 0.880302 0.880302
+  Component 3: 3.085445 3.085445
+  Component 4: -4.263678 -4.263678
+  Component 5: -3.419617 -3.419617
+  Component 6: -2.237726 -2.237726
+  Average Diff  0
+Sample 55:
+  Component 1: 7.757504 7.757504
+  Component 2: 3.956453 3.956453
+  Component 3: 2.222292 2.222292
+  Component 4: -11.076013 -11.076013
+  Component 5: 3.145751 3.145751
+  Component 6: -3.332912 -3.332912
+  Average Diff  0
+Sample 56:
+  Component 1: 1.311003 1.311003
+  Component 2: -1.599467 -1.599467
+  Component 3: 3.998446 3.998446
+  Component 4: -3.904611 -3.904611
+  Component 5: 3.540762 3.540762
+  Component 6: 1.980138 1.980138
+  Average Diff  0
+Sample 57:
+  Component 1: 5.266016 5.266016
+  Component 2: 2.406293 2.406293
+  Component 3: 4.962986 4.962986
+  Component 4: -8.978917 -8.978917
+  Component 5: 1.555104 1.555104
+  Component 6: -0.307199 -0.307199
+  Average Diff  0
+Sample 58:
+  Component 1: 7.239540 7.239540
+  Component 2: -0.204966 -0.204966
+  Component 3: 7.847161 7.847161
+  Component 4: -5.411922 -5.411922
+  Component 5: -3.712335 -3.712335
+  Component 6: 1.140319 1.140319
+  Average Diff  0
+Sample 59:
+  Component 1: 3.175210 3.175210
+  Component 2: 0.027858 0.027858
+  Component 3: 7.209008 7.209008
+  Component 4: -7.190355 -7.190355
+  Component 5: -5.219974 -5.219974
+  Component 6: 5.990041 5.990041
+  Average Diff  0
+Sample 60:
+  Component 1: 10.384785 10.384785
+  Component 2: 2.297962 2.297962
+  Component 3: 2.451192 2.451192
+  Component 4: -6.789988 -6.789988
+  Component 5: -6.166585 -6.166585
+  Component 6: -2.623208 -2.623208
+  Average Diff  0
+Sample 61:
+  Component 1: 6.472066 6.472066
+  Component 2: -1.291553 -1.291553
+  Component 3: 5.350106 5.350106
+  Component 4: -4.689447 -4.689447
+  Component 5: -2.702757 -2.702757
+  Component 6: 1.358938 1.358938
+  Average Diff  0
+Sample 62:
+  Component 1: 6.436129 6.436129
+  Component 2: -1.552086 -1.552086
+  Component 3: -1.211093 -1.211093
+  Component 4: -1.049648 -1.049648
+  Component 5: 1.969230 1.969230
+  Component 6: 0.835311 0.835311
+  Average Diff  0
+Sample 63:
+  Component 1: -0.194974 -0.194974
+  Component 2: 2.926580 2.926580
+  Component 3: 5.139699 5.139699
+  Component 4: -2.659734 -2.659734
+  Component 5: -12.428990 -12.428990
+  Component 6: 10.594399 10.594399
+  Average Diff  0
+Sample 64:
+  Component 1: 9.717772 9.717772
+  Component 2: -3.470948 -3.470948
+  Component 3: 1.846748 1.846748
+  Component 4: -4.582152 -4.582152
+  Component 5: 0.575214 0.575214
+  Component 6: 0.038158 0.038158
+  Average Diff  0
+Sample 65:
+  Component 1: 0.830390 0.830390
+  Component 2: 1.255758 1.255758
+  Component 3: 5.688416 5.688416
+  Component 4: -6.546595 -6.546595
+  Component 5: -5.585044 -5.585044
+  Component 6: 5.735178 5.735178
+  Average Diff  0
+Sample 66:
+  Component 1: 2.334213 2.334213
+  Component 2: 1.910173 1.910173
+  Component 3: 6.057705 6.057705
+  Component 4: -7.013971 -7.013971
+  Component 5: -1.848637 -1.848637
+  Component 6: 3.240637 3.240637
+  Average Diff  0
+Sample 67:
+  Component 1: 2.272644 2.272644
+  Component 2: 0.118001 0.118001
+  Component 3: 4.827770 4.827770
+  Component 4: -3.166090 -3.166090
+  Component 5: -3.693541 -3.693541
+  Component 6: 2.146297 2.146297
+  Average Diff  0
+Sample 68:
+  Component 1: 3.341660 3.341660
+  Component 2: 3.784086 3.784086
+  Component 3: 1.860446 1.860446
+  Component 4: -3.065233 -3.065233
+  Component 5: -3.750617 -3.750617
+  Component 6: 1.905981 1.905981
+  Average Diff  0
+Sample 69:
+  Component 1: 5.429251 5.429251
+  Component 2: -6.201005 -6.201005
+  Component 3: 7.779092 7.779092
+  Component 4: -2.003410 -2.003410
+  Component 5: -11.454787 -11.454787
+  Component 6: 7.802975 7.802975
+  Average Diff  0
+Sample 70:
+  Component 1: 8.568007 8.568007
+  Component 2: -1.952955 -1.952955
+  Component 3: 6.110400 6.110400
+  Component 4: -7.977494 -7.977494
+  Component 5: 0.824050 0.824050
+  Component 6: 0.393920 0.393920
+  Average Diff  0
+Sample 71:
+  Component 1: 2.204417 2.204417
+  Component 2: -1.534021 -1.534021
+  Component 3: 6.946309 6.946309
+  Component 4: -4.473000 -4.473000
+  Component 5: -6.547655 -6.547655
+  Component 6: 5.856892 5.856892
+  Average Diff  0
+Sample 72:
+  Component 1: 3.312935 3.312935
+  Component 2: -1.433647 -1.433647
+  Component 3: 5.840528 5.840528
+  Component 4: -4.321756 -4.321756
+  Component 5: 0.803115 0.803115
+  Component 6: 1.614100 1.614100
+  Average Diff  0
+Sample 73:
+  Component 1: 6.130853 6.130853
+  Component 2: -3.491521 -3.491521
+  Component 3: 7.164069 7.164069
+  Component 4: -8.086825 -8.086825
+  Component 5: -0.745106 -0.745106
+  Component 6: 4.271513 4.271513
+  Average Diff  0
+Sample 74:
+  Component 1: 4.468675 4.468675
+  Component 2: 2.537004 2.537004
+  Component 3: 3.746799 3.746799
+  Component 4: -8.922101 -8.922101
+  Component 5: 0.225382 0.225382
+  Component 6: -2.523321 -2.523321
+  Average Diff  0
+Sample 75:
+  Component 1: 9.440603 9.440603
+  Component 2: 0.032297 0.032297
+  Component 3: 0.993890 0.993890
+  Component 4: -2.375031 -2.375031
+  Component 5: -9.946130 -9.946130
+  Component 6: 1.187064 1.187064
+  Average Diff  0
+Sample 76:
+  Component 1: 0.170781 0.170781
+  Component 2: -0.021496 -0.021496
+  Component 3: 8.656200 8.656200
+  Component 4: -9.163705 -9.163705
+  Component 5: 2.926498 2.926498
+  Component 6: 4.957848 4.957848
+  Average Diff  0
+Sample 77:
+  Component 1: 1.942102 1.942102
+  Component 2: -0.906235 -0.906235
+  Component 3: 5.190601 5.190601
+  Component 4: -2.474485 -2.474485
+  Component 5: 2.230145 2.230145
+  Component 6: 3.170905 3.170905
+  Average Diff  0
+Sample 78:
+  Component 1: 2.267062 2.267062
+  Component 2: 3.933374 3.933374
+  Component 3: 6.714982 6.714982
+  Component 4: -11.526849 -11.526849
+  Component 5: 1.011705 1.011705
+  Component 6: 4.150600 4.150600
+  Average Diff  0
+Sample 79:
+  Component 1: 5.399493 5.399493
+  Component 2: -3.560527 -3.560527
+  Component 3: 4.429561 4.429561
+  Component 4: -3.732571 -3.732571
+  Component 5: -2.297450 -2.297450
+  Component 6: 1.593056 1.593056
+  Average Diff  0
+Sample 80:
+  Component 1: 5.753296 5.753296
+  Component 2: 3.092324 3.092324
+  Component 3: 1.163676 1.163676
+  Component 4: -6.963595 -6.963595
+  Component 5: -1.754997 -1.754997
+  Component 6: 0.027319 0.027319
+  Average Diff  0
+Sample 81:
+  Component 1: 8.897189 8.897189
+  Component 2: -0.475465 -0.475465
+  Component 3: 3.568075 3.568075
+  Component 4: -8.627414 -8.627414
+  Component 5: 0.472577 0.472577
+  Component 6: 0.919732 0.919732
+  Average Diff  0
+Sample 82:
+  Component 1: 0.562311 0.562311
+  Component 2: 3.616276 3.616276
+  Component 3: 5.613370 5.613370
+  Component 4: -5.090434 -5.090434
+  Component 5: -0.870125 -0.870125
+  Component 6: 2.173919 2.173919
+  Average Diff  0
+Sample 83:
+  Component 1: 3.321087 3.321087
+  Component 2: -0.088346 -0.088346
+  Component 3: 6.929977 6.929977
+  Component 4: -9.372414 -9.372414
+  Component 5: 4.317843 4.317843
+  Component 6: 4.675742 4.675742
+  Average Diff  0
+Sample 84:
+  Component 1: 3.335184 3.335184
+  Component 2: 2.924162 2.924162
+  Component 3: 6.722118 6.722118
+  Component 4: -11.031332 -11.031332
+  Component 5: 1.210572 1.210572
+  Component 6: 0.119108 0.119108
+  Average Diff  0
+Sample 85:
+  Component 1: 9.159931 9.159931
+  Component 2: -3.312800 -3.312800
+  Component 3: 9.189937 9.189937
+  Component 4: -6.644183 -6.644183
+  Component 5: -7.007678 -7.007678
+  Component 6: 0.064588 0.064588
+  Average Diff  0
+Sample 86:
+  Component 1: 9.072904 9.072904
+  Component 2: -5.987040 -5.987040
+  Component 3: 4.094399 4.094399
+  Component 4: -2.890526 -2.890526
+  Component 5: -4.152711 -4.152711
+  Component 6: 5.196527 5.196527
+  Average Diff  0
+Sample 87:
+  Component 1: 4.370021 4.370021
+  Component 2: -2.956900 -2.956900
+  Component 3: 1.262764 1.262764
+  Component 4: 2.329261 2.329261
+  Component 5: -1.769683 -1.769683
+  Component 6: -0.246265 -0.246265
+  Average Diff  0
+Sample 88:
+  Component 1: 5.460527 5.460527
+  Component 2: -8.746670 -8.746670
+  Component 3: 14.011099 14.011099
+  Component 4: -5.688376 -5.688376
+  Component 5: -4.807382 -4.807382
+  Component 6: 8.519783 8.519783
+  Average Diff  0
+Sample 89:
+  Component 1: 5.602958 5.602958
+  Component 2: -1.213633 -1.213633
+  Component 3: 4.779958 4.779958
+  Component 4: 0.752673 0.752673
+  Component 5: -4.931048 -4.931048
+  Component 6: 3.160200 3.160200
+  Average Diff  0
+Sample 90:
+  Component 1: 9.666020 9.666020
+  Component 2: -1.611947 -1.611947
+  Component 3: 4.633706 4.633706
+  Component 4: -5.443838 -5.443838
+  Component 5: 2.753449 2.753449
+  Component 6: -1.651848 -1.651848
+  Average Diff  0
+Sample 91:
+  Component 1: 4.274448 4.274448
+  Component 2: 4.515181 4.515181
+  Component 3: 0.726746 0.726746
+  Component 4: -4.544457 -4.544457
+  Component 5: -3.513429 -3.513429
+  Component 6: 1.418118 1.418118
+  Average Diff  0
+Sample 92:
+  Component 1: 4.932946 4.932946
+  Component 2: -0.544037 -0.544037
+  Component 3: 6.483058 6.483058
+  Component 4: -3.378775 -3.378775
+  Component 5: -2.045572 -2.045572
+  Component 6: 1.379429 1.379429
+  Average Diff  0
+Sample 93:
+  Component 1: 4.753586 4.753586
+  Component 2: 1.657677 1.657677
+  Component 3: 0.485750 0.485750
+  Component 4: -5.188001 -5.188001
+  Component 5: -0.286337 -0.286337
+  Component 6: -0.765911 -0.765911
+  Average Diff  0
+Sample 94:
+  Component 1: 6.068011 6.068011
+  Component 2: -2.307984 -2.307984
+  Component 3: 4.351579 4.351579
+  Component 4: -3.909020 -3.909020
+  Component 5: 2.824503 2.824503
+  Component 6: 2.329547 2.329547
+  Average Diff  0
+Sample 95:
+  Component 1: 6.147910 6.147910
+  Component 2: -1.778661 -1.778661
+  Component 3: 4.868282 4.868282
+  Component 4: -8.314844 -8.314844
+  Component 5: 0.490197 0.490197
+  Component 6: 3.102881 3.102881
+  Average Diff  0
+Sample 96:
+  Component 1: 1.091560 1.091560
+  Component 2: 1.537766 1.537766
+  Component 3: 5.161136 5.161136
+  Component 4: -6.301316 -6.301316
+  Component 5: -4.020747 -4.020747
+  Component 6: 8.962300 8.962300
+  Average Diff  0
+Sample 97:
+  Component 1: 9.750408 9.750408
+  Component 2: -3.737085 -3.737085
+  Component 3: 0.507025 0.507025
+  Component 4: -3.677760 -3.677760
+  Component 5: 2.546637 2.546637
+  Component 6: -0.125293 -0.125293
+  Average Diff  0
+Sample 98:
+  Component 1: 7.048945 7.048945
+  Component 2: 0.807782 0.807782
+  Component 3: 1.425712 1.425712
+  Component 4: -3.615701 -3.615701
+  Component 5: -2.825062 -2.825062
+  Component 6: 3.071507 3.071507
+  Average Diff  0
+Sample 99:
+  Component 1: 8.572920 8.572920
+  Component 2: 1.905315 1.905315
+  Component 3: -0.255547 -0.255547
+  Component 4: -6.007643 -6.007643
+  Component 5: 2.828776 2.828776
+  Component 6: -1.645333 -1.645333
+  Average Diff  0
+Sample 100:
+  Component 1: 8.500134 8.500134
+  Component 2: 1.221170 1.221170
+  Component 3: 0.560937 0.560937
+  Component 4: -8.823624 -8.823624
+  Component 5: 8.018880 8.018880
+  Component 6: 0.472094 0.472094
+  Average Diff  0
+Sample 101:
+  Component 1: 3.598081 3.598081
+  Component 2: 1.974692 1.974692
+  Component 3: 1.484342 1.484342
+  Component 4: -4.152486 -4.152486
+  Component 5: -0.646227 -0.646227
+  Component 6: -0.841902 -0.841902
+  Average Diff  0
+Sample 102:
+  Component 1: 9.472988 9.472988
+  Component 2: -3.271403 -3.271403
+  Component 3: 1.169773 1.169773
+  Component 4: 0.556333 0.556333
+  Component 5: -1.414117 -1.414117
+  Component 6: -2.354147 -2.354147
+  Average Diff  0
+Sample 103:
+  Component 1: 3.285754 3.285754
+  Component 2: -2.533361 -2.533361
+  Component 3: 3.535032 3.535032
+  Component 4: -1.560073 -1.560073
+  Component 5: -5.766673 -5.766673
+  Component 6: 5.151866 5.151866
+  Average Diff  0
+Sample 104:
+  Component 1: 2.871525 2.871525
+  Component 2: 0.161377 0.161377
+  Component 3: 8.210620 8.210620
+  Component 4: -7.792102 -7.792102
+  Component 5: -1.328651 -1.328651
+  Component 6: 0.715929 0.715929
+  Average Diff  0
+Sample 105:
+  Component 1: 3.653860 3.653860
+  Component 2: 4.632732 4.632732
+  Component 3: 1.339724 1.339724
+  Component 4: -5.277417 -5.277417
+  Component 5: -5.298672 -5.298672
+  Component 6: 2.398666 2.398666
+  Average Diff  0
+Sample 106:
+  Component 1: 7.718528 7.718528
+  Component 2: -7.360717 -7.360717
+  Component 3: 2.027848 2.027848
+  Component 4: 1.035141 1.035141
+  Component 5: 3.713830 3.713830
+  Component 6: 0.578075 0.578075
+  Average Diff  0
+Sample 107:
+  Component 1: 5.015467 5.015467
+  Component 2: 0.200456 0.200456
+  Component 3: 4.214212 4.214212
+  Component 4: -3.177924 -3.177924
+  Component 5: 3.987590 3.987590
+  Component 6: -1.525763 -1.525763
+  Average Diff  0
+Sample 108:
+  Component 1: 4.204330 4.204330
+  Component 2: -2.010978 -2.010978
+  Component 3: 3.608118 3.608118
+  Component 4: -3.193268 -3.193268
+  Component 5: -2.565002 -2.565002
+  Component 6: 7.388474 7.388474
+  Average Diff  0
+Sample 109:
+  Component 1: 4.892326 4.892326
+  Component 2: -5.183198 -5.183198
+  Component 3: 10.691388 10.691388
+  Component 4: -3.163489 -3.163489
+  Component 5: -8.088085 -8.088085
+  Component 6: 5.993527 5.993527
+  Average Diff  0
+Sample 110:
+  Component 1: 6.306176 6.306176
+  Component 2: -0.694463 -0.694463
+  Component 3: 4.407002 4.407002
+  Component 4: -8.313407 -8.313407
+  Component 5: -0.440435 -0.440435
+  Component 6: 0.183723 0.183723
+  Average Diff  0
+Sample 111:
+  Component 1: 5.333906 5.333906
+  Component 2: -2.151466 -2.151466
+  Component 3: 5.820108 5.820108
+  Component 4: -3.287862 -3.287862
+  Component 5: -1.482515 -1.482515
+  Component 6: 2.454547 2.454547
+  Average Diff  0
+Sample 112:
+  Component 1: 10.313627 10.313627
+  Component 2: -1.200617 -1.200617
+  Component 3: 1.468811 1.468811
+  Component 4: -4.141007 -4.141007
+  Component 5: -2.130794 -2.130794
+  Component 6: -2.182903 -2.182903
+  Average Diff  0
+Sample 113:
+  Component 1: 6.083827 6.083827
+  Component 2: -1.770447 -1.770447
+  Component 3: 1.021648 1.021648
+  Component 4: -0.888402 -0.888402
+  Component 5: -2.419748 -2.419748
+  Component 6: 4.417915 4.417915
+  Average Diff  0
+Sample 114:
+  Component 1: 1.585977 1.585977
+  Component 2: 3.485617 3.485617
+  Component 3: 1.264533 1.264533
+  Component 4: -4.633307 -4.633307
+  Component 5: -3.345591 -3.345591
+  Component 6: 1.063958 1.063958
+  Average Diff  0
+Sample 115:
+  Component 1: 1.620955 1.620955
+  Component 2: 2.430983 2.430983
+  Component 3: 0.464008 0.464008
+  Component 4: 2.255480 2.255480
+  Component 5: -6.595072 -6.595072
+  Component 6: 2.989090 2.989090
+  Average Diff  0
+Sample 116:
+  Component 1: -1.516582 -1.516582
+  Component 2: 4.062475 4.062475
+  Component 3: 3.352403 3.352403
+  Component 4: -0.883444 -0.883444
+  Component 5: -3.934696 -3.934696
+  Component 6: 3.369770 3.369770
+  Average Diff  0
+Sample 117:
+  Component 1: 6.696598 6.696598
+  Component 2: 0.747191 0.747191
+  Component 3: 6.861948 6.861948
+  Component 4: -10.891525 -10.891525
+  Component 5: -2.067769 -2.067769
+  Component 6: -0.066077 -0.066077
+  Average Diff  0
+Sample 118:
+  Component 1: 5.826495 5.826495
+  Component 2: -0.828733 -0.828733
+  Component 3: 3.236128 3.236128
+  Component 4: -3.998505 -3.998505
+  Component 5: -1.038072 -1.038072
+  Component 6: -1.088855 -1.088855
+  Average Diff  0
+Sample 119:
+  Component 1: 3.138076 3.138076
+  Component 2: -2.506752 -2.506752
+  Component 3: 6.474021 6.474021
+  Component 4: -8.651253 -8.651253
+  Component 5: -0.385196 -0.385196
+  Component 6: 3.045112 3.045112
+  Average Diff  0
+Sample 120:
+  Component 1: 1.505105 1.505105
+  Component 2: 4.460179 4.460179
+  Component 3: 1.028752 1.028752
+  Component 4: -1.686653 -1.686653
+  Component 5: -5.266029 -5.266029
+  Component 6: 1.338188 1.338188
+  Average Diff  0
+Sample 121:
+  Component 1: 1.020842 1.020842
+  Component 2: 3.552762 3.552762
+  Component 3: 2.659485 2.659485
+  Component 4: -2.347980 -2.347980
+  Component 5: -8.734773 -8.734773
+  Component 6: 2.511037 2.511037
+  Average Diff  0
+Sample 122:
+  Component 1: 2.054115 2.054115
+  Component 2: -1.223920 -1.223920
+  Component 3: 5.354266 5.354266
+  Component 4: -7.390198 -7.390198
+  Component 5: 0.158934 0.158934
+  Component 6: 5.856031 5.856031
+  Average Diff  0
+Sample 123:
+  Component 1: 6.168896 6.168896
+  Component 2: -4.959371 -4.959371
+  Component 3: 4.990983 4.990983
+  Component 4: -0.557046 -0.557046
+  Component 5: -5.788344 -5.788344
+  Component 6: 6.296199 6.296199
+  Average Diff  0
+Sample 124:
+  Component 1: 2.018894 2.018894
+  Component 2: -1.082221 -1.082221
+  Component 3: 5.302409 5.302409
+  Component 4: -4.487563 -4.487563
+  Component 5: 1.142398 1.142398
+  Component 6: 0.899016 0.899016
+  Average Diff  0
+Sample 125:
+  Component 1: 3.233922 3.233922
+  Component 2: 3.783540 3.783540
+  Component 3: 4.025289 4.025289
+  Component 4: -10.363338 -10.363338
+  Component 5: -2.460353 -2.460353
+  Component 6: 4.019040 4.019040
+  Average Diff  0
+Sample 126:
+  Component 1: 5.453735 5.453735
+  Component 2: -1.976191 -1.976191
+  Component 3: 6.678864 6.678864
+  Component 4: -3.738727 -3.738727
+  Component 5: -3.069770 -3.069770
+  Component 6: 3.615614 3.615614
+  Average Diff  0
+Sample 127:
+  Component 1: 2.838786 2.838786
+  Component 2: -0.941761 -0.941761
+  Component 3: 3.588665 3.588665
+  Component 4: -4.757041 -4.757041
+  Component 5: -0.445886 -0.445886
+  Component 6: 3.533231 3.533231
+  Average Diff  0
+Sample 128:
+  Component 1: 4.894452 4.894452
+  Component 2: 3.041445 3.041445
+  Component 3: -4.620931 -4.620931
+  Component 4: 0.608202 0.608202
+  Component 5: -4.325905 -4.325905
+  Component 6: 0.919251 0.919251
+  Average Diff  0
+Sample 129:
+  Component 1: 5.914887 5.914887
+  Component 2: -0.575959 -0.575959
+  Component 3: -1.764654 -1.764654
+  Component 4: -2.832017 -2.832017
+  Component 5: -1.164374 -1.164374
+  Component 6: 0.196795 0.196795
+  Average Diff  0
+Sample 130:
+  Component 1: 1.492177 1.492177
+  Component 2: 0.233566 0.233566
+  Component 3: 3.794080 3.794080
+  Component 4: -2.722182 -2.722182
+  Component 5: 0.478110 0.478110
+  Component 6: 4.201243 4.201243
+  Average Diff  0
+Sample 131:
+  Component 1: 8.423191 8.423191
+  Component 2: -3.909126 -3.909126
+  Component 3: 2.863048 2.863048
+  Component 4: -0.522631 -0.522631
+  Component 5: -8.361657 -8.361657
+  Component 6: 2.818074 2.818074
+  Average Diff  0
+Sample 132:
+  Component 1: 11.272447 11.272447
+  Component 2: -3.828732 -3.828732
+  Component 3: 5.570784 5.570784
+  Component 4: -3.476428 -3.476428
+  Component 5: -1.942336 -1.942336
+  Component 6: -0.003111 -0.003111
+  Average Diff  0
+Sample 133:
+  Component 1: 5.795152 5.795152
+  Component 2: -1.083122 -1.083122
+  Component 3: 4.186975 4.186975
+  Component 4: -1.548653 -1.548653
+  Component 5: -0.753075 -0.753075
+  Component 6: 1.308335 1.308335
+  Average Diff  0
+Sample 134:
+  Component 1: 1.362455 1.362455
+  Component 2: -2.183982 -2.183982
+  Component 3: 8.175462 8.175462
+  Component 4: -2.263952 -2.263952
+  Component 5: -3.633423 -3.633423
+  Component 6: 5.593014 5.593014
+  Average Diff  0
+Sample 135:
+  Component 1: 5.116953 5.116953
+  Component 2: -5.895861 -5.895861
+  Component 3: 5.725829 5.725829
+  Component 4: -0.967963 -0.967963
+  Component 5: 2.305863 2.305863
+  Component 6: 2.779125 2.779125
+  Average Diff  0
+Sample 136:
+  Component 1: 5.571027 5.571027
+  Component 2: -3.272937 -3.272937
+  Component 3: 5.915174 5.915174
+  Component 4: -3.666466 -3.666466
+  Component 5: -0.781495 -0.781495
+  Component 6: 2.332945 2.332945
+  Average Diff  0
+Sample 137:
+  Component 1: 9.859188 9.859188
+  Component 2: -7.141675 -7.141675
+  Component 3: 2.190271 2.190271
+  Component 4: 3.459369 3.459369
+  Component 5: -6.793391 -6.793391
+  Component 6: 2.805358 2.805358
+  Average Diff  0
+Sample 138:
+  Component 1: 5.966211 5.966211
+  Component 2: -3.571921 -3.571921
+  Component 3: 7.550218 7.550218
+  Component 4: -5.608643 -5.608643
+  Component 5: -1.657291 -1.657291
+  Component 6: 3.152019 3.152019
+  Average Diff  0
+Sample 139:
+  Component 1: 7.594141 7.594141
+  Component 2: -4.963488 -4.963488
+  Component 3: 4.059266 4.059266
+  Component 4: -1.303468 -1.303468
+  Component 5: -5.293702 -5.293702
+  Component 6: 2.203140 2.203140
+  Average Diff  0
+Sample 140:
+  Component 1: -1.842405 -1.842405
+  Component 2: -1.428733 -1.428733
+  Component 3: 7.899385 7.899385
+  Component 4: -3.984865 -3.984865
+  Component 5: -1.617108 -1.617108
+  Component 6: 6.353989 6.353989
+  Average Diff  0
+Sample 141:
+  Component 1: 8.866070 8.866070
+  Component 2: -3.303874 -3.303874
+  Component 3: -0.150533 -0.150533
+  Component 4: 0.311778 0.311778
+  Component 5: 11.537621 11.537621
+  Component 6: -3.978315 -3.978315
+  Average Diff  0
+Sample 142:
+  Component 1: 8.050419 8.050419
+  Component 2: 4.086571 4.086571
+  Component 3: 0.125329 0.125329
+  Component 4: -6.962605 -6.962605
+  Component 5: 0.226210 0.226210
+  Component 6: -0.469244 -0.469244
+  Average Diff  0
+Sample 143:
+  Component 1: 7.730836 7.730836
+  Component 2: -1.111823 -1.111823
+  Component 3: 4.236216 4.236216
+  Component 4: -8.346456 -8.346456
+  Component 5: -0.993591 -0.993591
+  Component 6: 5.712471 5.712471
+  Average Diff  0
+Sample 144:
+  Component 1: 6.643487 6.643487
+  Component 2: -1.541360 -1.541360
+  Component 3: 3.242713 3.242713
+  Component 4: -3.245478 -3.245478
+  Component 5: -1.638739 -1.638739
+  Component 6: 0.856525 0.856525
+  Average Diff  0
+Sample 145:
+  Component 1: 4.147862 4.147862
+  Component 2: -0.073366 -0.073366
+  Component 3: 2.144012 2.144012
+  Component 4: -1.175803 -1.175803
+  Component 5: -2.317061 -2.317061
+  Component 6: 2.599181 2.599181
+  Average Diff  0
+Sample 146:
+  Component 1: -0.610165 -0.610165
+  Component 2: -1.222493 -1.222493
+  Component 3: 6.931766 6.931766
+  Component 4: -3.835325 -3.835325
+  Component 5: -2.006790 -2.006790
+  Component 6: 6.105725 6.105725
+  Average Diff  0
+Sample 147:
+  Component 1: -1.737690 -1.737690
+  Component 2: 3.100651 3.100651
+  Component 3: 3.818175 3.818175
+  Component 4: -4.824049 -4.824049
+  Component 5: -2.898585 -2.898585
+  Component 6: 3.182818 3.182818
+  Average Diff  0
+Sample 148:
+  Component 1: 0.100059 0.100059
+  Component 2: 3.252044 3.252044
+  Component 3: -3.828080 -3.828080
+  Component 4: 4.924021 4.924021
+  Component 5: -3.154843 -3.154843
+  Component 6: 1.478967 1.478967
+  Average Diff  0
+Sample 149:
+  Component 1: 12.281825 12.281825
+  Component 2: -3.936315 -3.936315
+  Component 3: 0.426049 0.426049
+  Component 4: -0.893615 -0.893615
+  Component 5: 1.439531 1.439531
+  Component 6: -4.231766 -4.231766
+  Average Diff  0
+Sample 150:
+  Component 1: 5.343718 5.343718
+  Component 2: -1.066191 -1.066191
+  Component 3: 9.494929 9.494929
+  Component 4: -7.915637 -7.915637
+  Component 5: 0.608687 0.608687
+  Component 6: 0.871353 0.871353
+  Average Diff  0
+Sample 151:
+  Component 1: 6.411207 6.411207
+  Component 2: -2.215193 -2.215193
+  Component 3: 3.251956 3.251956
+  Component 4: -2.841098 -2.841098
+  Component 5: -1.161178 -1.161178
+  Component 6: 2.575952 2.575952
+  Average Diff  0
+Sample 152:
+  Component 1: -2.603552 -2.603552
+  Component 2: 2.218725 2.218725
+  Component 3: 0.702388 0.702388
+  Component 4: -2.352316 -2.352316
+  Component 5: -0.058436 -0.058436
+  Component 6: 3.414517 3.414517
+  Average Diff  0
+Sample 153:
+  Component 1: 6.395039 6.395039
+  Component 2: 1.409260 1.409260
+  Component 3: -0.597899 -0.597899
+  Component 4: -2.171507 -2.171507
+  Component 5: 1.799303 1.799303
+  Component 6: -3.184719 -3.184719
+  Average Diff  0
+Sample 154:
+  Component 1: 4.104264 4.104264
+  Component 2: -2.833637 -2.833637
+  Component 3: 6.736854 6.736854
+  Component 4: -6.913729 -6.913729
+  Component 5: -0.306176 -0.306176
+  Component 6: 3.883554 3.883554
+  Average Diff  0
+Sample 155:
+  Component 1: 7.259652 7.259652
+  Component 2: -3.162040 -3.162040
+  Component 3: 3.337744 3.337744
+  Component 4: -7.917801 -7.917801
+  Component 5: 8.045358 8.045358
+  Component 6: 0.092240 0.092240
+  Average Diff  0
+Sample 156:
+  Component 1: 7.987081 7.987081
+  Component 2: -7.576315 -7.576315
+  Component 3: 9.075575 9.075575
+  Component 4: -1.923077 -1.923077
+  Component 5: 1.562738 1.562738
+  Component 6: 2.831220 2.831220
+  Average Diff  0
+Sample 157:
+  Component 1: 3.764791 3.764791
+  Component 2: -0.626853 -0.626853
+  Component 3: 3.117378 3.117378
+  Component 4: -3.295313 -3.295313
+  Component 5: 5.381008 5.381008
+  Component 6: 2.722503 2.722503
+  Average Diff  0
+Sample 158:
+  Component 1: 6.839789 6.839789
+  Component 2: -6.737484 -6.737484
+  Component 3: 12.655557 12.655557
+  Component 4: -9.460891 -9.460891
+  Component 5: -1.278526 -1.278526
+  Component 6: 2.922514 2.922514
+  Average Diff  0
+Sample 159:
+  Component 1: 2.520707 2.520707
+  Component 2: 0.671411 0.671411
+  Component 3: 1.754798 1.754798
+  Component 4: -2.322601 -2.322601
+  Component 5: 1.298697 1.298697
+  Component 6: -0.098575 -0.098575
+  Average Diff  0
+Sample 160:
+  Component 1: 6.093220 6.093220
+  Component 2: -0.562493 -0.562493
+  Component 3: 6.720046 6.720046
+  Component 4: -7.294430 -7.294430
+  Component 5: -1.481018 -1.481018
+  Component 6: 3.274132 3.274132
+  Average Diff  0
+Sample 161:
+  Component 1: -1.915299 -1.915299
+  Component 2: 8.610880 8.610880
+  Component 3: -1.502865 -1.502865
+  Component 4: -2.146329 -2.146329
+  Component 5: -9.570302 -9.570302
+  Component 6: 4.259212 4.259212
+  Average Diff  0
+Sample 162:
+  Component 1: 4.445694 4.445694
+  Component 2: -0.838662 -0.838662
+  Component 3: 0.954596 0.954596
+  Component 4: -0.301778 -0.301778
+  Component 5: -5.821213 -5.821213
+  Component 6: 3.411802 3.411802
+  Average Diff  0
+Sample 163:
+  Component 1: 1.622294 1.622294
+  Component 2: 3.493921 3.493921
+  Component 3: 0.480676 0.480676
+  Component 4: -3.125723 -3.125723
+  Component 5: 6.299069 6.299069
+  Component 6: -1.215240 -1.215240
+  Average Diff  0
+Sample 164:
+  Component 1: 7.437407 7.437407
+  Component 2: -7.705701 -7.705701
+  Component 3: 5.723060 5.723060
+  Component 4: -2.081942 -2.081942
+  Component 5: -2.762388 -2.762388
+  Component 6: 4.806802 4.806802
+  Average Diff  0
+Sample 165:
+  Component 1: 7.969735 7.969735
+  Component 2: -6.742908 -6.742908
+  Component 3: 7.226970 7.226970
+  Component 4: -1.590852 -1.590852
+  Component 5: -3.552265 -3.552265
+  Component 6: 5.396548 5.396548
+  Average Diff  0
+Sample 166:
+  Component 1: 3.676024 3.676024
+  Component 2: 1.632024 1.632024
+  Component 3: 6.700447 6.700447
+  Component 4: -12.021474 -12.021474
+  Component 5: 0.031413 0.031413
+  Component 6: 4.646104 4.646104
+  Average Diff  0
+Sample 167:
+  Component 1: 7.455845 7.455845
+  Component 2: -0.159407 -0.159407
+  Component 3: 2.150390 2.150390
+  Component 4: -8.025233 -8.025233
+  Component 5: -6.370493 -6.370493
+  Component 6: 3.839241 3.839241
+  Average Diff  0
+Sample 168:
+  Component 1: 1.695875 1.695875
+  Component 2: 2.010273 2.010273
+  Component 3: 6.961086 6.961086
+  Component 4: -7.002544 -7.002544
+  Component 5: -4.093504 -4.093504
+  Component 6: 2.233089 2.233089
+  Average Diff  0
+Sample 169:
+  Component 1: 8.397595 8.397595
+  Component 2: -1.205324 -1.205324
+  Component 3: 4.339684 4.339684
+  Component 4: -2.051847 -2.051847
+  Component 5: -11.474990 -11.474990
+  Component 6: 6.456098 6.456098
+  Average Diff  0
+Sample 170:
+  Component 1: 10.203488 10.203488
+  Component 2: -5.429275 -5.429275
+  Component 3: 2.067451 2.067451
+  Component 4: -3.697338 -3.697338
+  Component 5: -1.212747 -1.212747
+  Component 6: -0.606254 -0.606254
+  Average Diff  0
+Sample 171:
+  Component 1: 4.102328 4.102328
+  Component 2: 1.758300 1.758300
+  Component 3: 0.962081 0.962081
+  Component 4: -2.670984 -2.670984
+  Component 5: 1.050992 1.050992
+  Component 6: -0.863440 -0.863440
+  Average Diff  0
+Sample 172:
+  Component 1: 6.932156 6.932156
+  Component 2: 3.034233 3.034233
+  Component 3: 0.338098 0.338098
+  Component 4: -5.331797 -5.331797
+  Component 5: -5.330885 -5.330885
+  Component 6: -0.726951 -0.726951
+  Average Diff  0
+Sample 173:
+  Component 1: 6.087149 6.087149
+  Component 2: -0.460122 -0.460122
+  Component 3: 1.530049 1.530049
+  Component 4: -2.005718 -2.005718
+  Component 5: -1.037724 -1.037724
+  Component 6: 2.912411 2.912411
+  Average Diff  0
+Sample 174:
+  Component 1: -3.468021 -3.468021
+  Component 2: 2.025166 2.025166
+  Component 3: 7.879573 7.879573
+  Component 4: -5.469166 -5.469166
+  Component 5: 2.632584 2.632584
+  Component 6: 5.099002 5.099002
+  Average Diff  0
+Sample 175:
+  Component 1: 4.687308 4.687308
+  Component 2: -1.017478 -1.017478
+  Component 3: 4.751715 4.751715
+  Component 4: -7.543838 -7.543838
+  Component 5: 5.374540 5.374540
+  Component 6: -0.448403 -0.448403
+  Average Diff  0
+Sample 176:
+  Component 1: 1.430692 1.430692
+  Component 2: 2.367136 2.367136
+  Component 3: 0.503847 0.503847
+  Component 4: -5.646314 -5.646314
+  Component 5: 1.732970 1.732970
+  Component 6: 2.654202 2.654202
+  Average Diff  0
+Sample 177:
+  Component 1: 11.112929 11.112929
+  Component 2: -6.862209 -6.862209
+  Component 3: 6.782719 6.782719
+  Component 4: -2.528419 -2.528419
+  Component 5: -3.044848 -3.044848
+  Component 6: -1.382261 -1.382261
+  Average Diff  0
+Sample 178:
+  Component 1: -0.052703 -0.052703
+  Component 2: -1.772591 -1.772591
+  Component 3: 9.523411 9.523411
+  Component 4: -6.886159 -6.886159
+  Component 5: -2.596773 -2.596773
+  Component 6: 5.592578 5.592578
+  Average Diff  0
+Sample 179:
+  Component 1: 5.853073 5.853073
+  Component 2: 2.861786 2.861786
+  Component 3: 2.775849 2.775849
+  Component 4: -10.789827 -10.789827
+  Component 5: -6.062267 -6.062267
+  Component 6: 4.919838 4.919838
+  Average Diff  0
+Sample 180:
+  Component 1: 7.800324 7.800324
+  Component 2: -5.864446 -5.864446
+  Component 3: 3.154720 3.154720
+  Component 4: 6.507834 6.507834
+  Component 5: -9.539138 -9.539138
+  Component 6: 1.667163 1.667163
+  Average Diff  0
+Sample 181:
+  Component 1: 6.244832 6.244832
+  Component 2: -1.271542 -1.271542
+  Component 3: 3.840767 3.840767
+  Component 4: -3.266943 -3.266943
+  Component 5: 3.347356 3.347356
+  Component 6: -0.635394 -0.635394
+  Average Diff  0
+Sample 182:
+  Component 1: 11.468497 11.468497
+  Component 2: -4.081201 -4.081201
+  Component 3: 2.870190 2.870190
+  Component 4: -4.374429 -4.374429
+  Component 5: 0.868914 0.868914
+  Component 6: 0.621820 0.621820
+  Average Diff  0
+Sample 183:
+  Component 1: 5.991414 5.991414
+  Component 2: -0.557902 -0.557902
+  Component 3: 3.292168 3.292168
+  Component 4: -7.720800 -7.720800
+  Component 5: 5.823614 5.823614
+  Component 6: -1.135844 -1.135844
+  Average Diff  0
+Sample 184:
+  Component 1: 5.712374 5.712374
+  Component 2: -2.240840 -2.240840
+  Component 3: 4.042059 4.042059
+  Component 4: -5.823020 -5.823020
+  Component 5: 4.978868 4.978868
+  Component 6: 0.606969 0.606969
+  Average Diff  0
+Sample 185:
+  Component 1: 8.641791 8.641791
+  Component 2: -3.960016 -3.960016
+  Component 3: 3.563148 3.563148
+  Component 4: -1.196422 -1.196422
+  Component 5: -1.201089 -1.201089
+  Component 6: 0.556730 0.556730
+  Average Diff  0
+Sample 186:
+  Component 1: 9.483441 9.483441
+  Component 2: -3.813670 -3.813670
+  Component 3: 2.224911 2.224911
+  Component 4: -0.619466 -0.619466
+  Component 5: -1.873479 -1.873479
+  Component 6: 0.236077 0.236077
+  Average Diff  0
+Sample 187:
+  Component 1: 9.172235 9.172235
+  Component 2: -3.372105 -3.372105
+  Component 3: 2.233480 2.233480
+  Component 4: -2.126494 -2.126494
+  Component 5: 2.665383 2.665383
+  Component 6: -1.211789 -1.211789
+  Average Diff  0
+Sample 188:
+  Component 1: 5.053002 5.053002
+  Component 2: 1.051133 1.051133
+  Component 3: -0.132820 -0.132820
+  Component 4: -2.005039 -2.005039
+  Component 5: 0.388923 0.388923
+  Component 6: -0.121118 -0.121118
+  Average Diff  0
+Sample 189:
+  Component 1: 6.285038 6.285038
+  Component 2: 2.675643 2.675643
+  Component 3: 3.627416 3.627416
+  Component 4: -10.658438 -10.658438
+  Component 5: 2.023502 2.023502
+  Component 6: 0.491808 0.491808
+  Average Diff  0
+Sample 190:
+  Component 1: 3.267789 3.267789
+  Component 2: 2.568163 2.568163
+  Component 3: 3.311594 3.311594
+  Component 4: -7.434920 -7.434920
+  Component 5: -0.740748 -0.740748
+  Component 6: 2.287980 2.287980
+  Average Diff  0
+Sample 191:
+  Component 1: 5.389065 5.389065
+  Component 2: -2.232070 -2.232070
+  Component 3: 10.099646 10.099646
+  Component 4: -8.571716 -8.571716
+  Component 5: -3.716007 -3.716007
+  Component 6: 3.392352 3.392352
+  Average Diff  0
+Sample 192:
+  Component 1: 6.816821 6.816821
+  Component 2: -2.878582 -2.878582
+  Component 3: 4.706205 4.706205
+  Component 4: -2.627067 -2.627067
+  Component 5: -7.984755 -7.984755
+  Component 6: 3.332155 3.332155
+  Average Diff  0
+Sample 193:
+  Component 1: 4.526885 4.526885
+  Component 2: -1.766749 -1.766749
+  Component 3: 1.039745 1.039745
+  Component 4: -0.568831 -0.568831
+  Component 5: -9.766868 -9.766868
+  Component 6: 5.762403 5.762403
+  Average Diff  0
+Sample 194:
+  Component 1: 0.983890 0.983890
+  Component 2: 0.982840 0.982840
+  Component 3: 7.809088 7.809088
+  Component 4: -6.976362 -6.976362
+  Component 5: -3.766410 -3.766410
+  Component 6: 5.026326 5.026326
+  Average Diff  0
+Sample 195:
+  Component 1: 5.242136 5.242136
+  Component 2: 2.189494 2.189494
+  Component 3: 4.469449 4.469449
+  Component 4: -8.732560 -8.732560
+  Component 5: 1.496028 1.496028
+  Component 6: 1.725888 1.725888
+  Average Diff  0
+Sample 196:
+  Component 1: 2.092132 2.092132
+  Component 2: 10.342961 10.342961
+  Component 3: -1.971622 -1.971622
+  Component 4: -8.825726 -8.825726
+  Component 5: 0.015112 0.015112
+  Component 6: -4.811225 -4.811225
+  Average Diff  0
+Sample 197:
+  Component 1: 4.311522 4.311522
+  Component 2: -0.864369 -0.864369
+  Component 3: 1.412431 1.412431
+  Component 4: -1.758896 -1.758896
+  Component 5: -5.891752 -5.891752
+  Component 6: 5.483625 5.483625
+  Average Diff  0
+Sample 198:
+  Component 1: 2.355576 2.355576
+  Component 2: -1.161423 -1.161423
+  Component 3: 8.549035 8.549035
+  Component 4: -6.313555 -6.313555
+  Component 5: -4.726741 -4.726741
+  Component 6: 8.428689 8.428689
+  Average Diff  0
+Sample 199:
+  Component 1: 6.192472 6.192472
+  Component 2: -2.977261 -2.977261
+  Component 3: 1.658861 1.658861
+  Component 4: 1.468151 1.468151
+  Component 5: -6.142928 -6.142928
+  Component 6: 0.344962 0.344962
+  Average Diff  0
+Sample 200:
+  Component 1: 1.669342 1.669342
+  Component 2: 2.470325 2.470325
+  Component 3: 5.396702 5.396702
+  Component 4: -5.512786 -5.512786
+  Component 5: 2.471322 2.471322
+  Component 6: 3.803228 3.803228
+  Average Diff  0
+
+
+ Overall Average Diff 0
+3909.88user 192.78system 11:20.52elapsed 602%CPU (0avgtext+0avgdata 7542620maxresident)k
+7112608inputs+328outputs (140120major+28250297minor)pagefaults 0swaps

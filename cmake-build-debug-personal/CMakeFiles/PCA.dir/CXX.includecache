@@ -20,18 +20,6 @@ sstream
 openfhe.h
 -
 
-/home/ajanusze/tmp/tmp.KLZX0N3d95/PCA/main.cpp
-vector
--
-iostream
--
-fstream
--
-sstream
--
-string
--
-
 /usr/local/include/openfhe/binfhe/binfhe-base-params.h
 lattice/lat-hal.h
 /usr/local/include/openfhe/binfhe/lattice/lat-hal.h
